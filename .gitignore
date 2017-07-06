@@ -2,6 +2,8 @@
 web/app/plugins/*
 !web/app/plugins/.gitkeep
 !web/app/plugins/tc-shortcodes
+!web/app/plugins/js_composer
+!web/app/plugins/revslider
 web/app/mu-plugins/*/
 web/app/upgrade
 web/app/uploads/*
